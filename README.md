@@ -1,20 +1,18 @@
-
-<h1 align="center">Hi 👋, I'm Hrishikesh G Kulkarni</h1>
-<h3 align="center">Data Science, Web-Dev Enthusiast</h3>
+![MasterHead](https://github.com/SpeedyG3/SpeedyG3/blob/main/readme_banner.png)
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speedyg3&label=Profile%20views&color=0078c2&style=plastic" alt="speedyg3" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning Concepts, Backend Web-dev, Coding for Placements.**
+- 🔭 I’m currently working on **Deep Learning Concepts, Backend Web-dev, Programming.**
 
 - 🌱 I’m currently learning
 1) DL(CNNs, ComputerVision) -> Basic concept, Keras, Tensorflow and YOLO
 2) BackendWebDev -> Express, Node and Mongo
-3) Coding -> Dynamic Programming
+3) Programming -> Dynamic Programming
 
-- 💬 Ask me about **ML, DL, Computer-Vision, Web-dev and Programming(Java)**
+- 🤔 Ask me about **ML, DL, Computer-Vision, Web-dev and Programming(Java)**
 
-- 📫 Reach me at: **hrishikeshkulkarni009@gmail.com**
+- 📧 Email: **hrishikeshkulkarni009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
