@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hrishikesh GK</h1>
+<h1 align="center">Hi 👋, I'm Hrishikesh G Kulkarni</h1>
 <h3 align="center">Data Science, Web-Dev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speedyg3&label=Profile%20views&color=0078c2&style=plastic" alt="speedyg3" /> </p>
 
-- 💬 Ask me about **ML, DL, Computer-Vision, Coding**
+- 🔭 I’m currently working on **Deep Learning Concepts, Backend Web-dev, Coding for Placements.**
 
-- 📫 Reach me at **hrishikeshkulkarni009@gmail.com**
+- 🌱 I’m currently learning
+1) DL(CNNs, ComputerVision) -> Basic concept, Keras, Tensorflow and YOLO
+2) BackendWebDev -> Express, Node and Mongo
+3) Coding -> Dynamic Programming
+
+- 💬 Ask me about **ML, DL, Computer-Vision, Web-dev and Programming(Java)**
+
+- 📫 Reach me at: **hrishikeshkulkarni009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
