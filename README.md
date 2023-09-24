@@ -1,7 +1,11 @@
-![MasterHead](https://github.com/SpeedyG3/SpeedyG3/blob/main/readme_banner.png)
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hey, I'm Hrishikesh G Kulkarni</h1>
+<p align="center" style="color: orange;"><strong>Data Science enthusiast, MERN Stack Developer, Pasta Lover 🍝</strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=speedyg3&label=Profile%20views&color=0078c2&style=plastic" alt="speedyg3" /> </p>
+
+<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+
 
 - 🔭 I’m currently working on **Deep Learning Concepts, Backend Web-dev, Programming.**
 
