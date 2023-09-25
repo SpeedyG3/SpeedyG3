@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Deep Learning Concepts, Backend Web-dev, Programming.**
 
 - 🌱 I’m currently learning
-1) DL(CNNs, ComputerVision) -> Basic concept, Keras, Tensorflow and YOLO
+1) DL(CNNs, ComputerVision) -> Basic concepts, Keras, Tensorflow and YOLO
 2) BackendWebDev -> Express, Node and Mongo
 3) Programming -> Dynamic Programming
 
