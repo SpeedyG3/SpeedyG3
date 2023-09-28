@@ -16,6 +16,7 @@
 <p align="left">
 <p>📧Email: hrishikeshkulkarni009@gmail.com</p>
 <a href="https://linkedin.com/in/hrishikesh-g-kulkarni-a18a94244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishikesh-g-kulkarni-a18a94244/" height="30" width="40" /></a>
+<a href="https://kaggle.com/hrishikeshgkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hrishikeshgkulkarni" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gk_hrishikesh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gk_hrishikesh009" height="30" width="40" /></a>
 </p>
 
