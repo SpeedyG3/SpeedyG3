@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Projects and Programming.**
+- 🔭 I’m currently working on **Core CS Subjects, DSA and Projects**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
