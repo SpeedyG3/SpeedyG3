@@ -5,12 +5,6 @@
 
 - 🔭 I’m currently working on **Projects and Programming.**
 
-- 🌱 I’m currently learning
-1) WebDev -> React
-2) Programming -> Graphs
-   
-- 🤔 Ask me about **ML, DL, Computer-Vision, Web-dev and Programming(Java)**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <p>📧Email: hrishikeshkulkarni009@gmail.com</p>
