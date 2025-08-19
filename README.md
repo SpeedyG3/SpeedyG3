@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Hrishikesh G Kulkarni</h1>
-<p align="center" style="color: orange;"><strong> MERN Stack Developer, ML/DL enthusiast, and a Massive Pasta Lover 🍝</strong></p>
+<p align="center" style="color: orange;"><strong> Developer, AI enthusiast, and a Massive Pasta Lover 🍝</strong></p>
 
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwOTZkaDVhc3NmbnIyMHJlMjNja3V5dnU0eWRja3cyNGRvZDV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Placements**
+- 🔭 Working at Bank of America as an SDE 1
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
