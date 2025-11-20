@@ -36,5 +36,5 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📈My Github Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=speedyg3&" alt="speedyg3" /></p>
+<!-- <h3 align="left">📈My Github Stats</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=speedyg3&" alt="speedyg3" /></p> -->
